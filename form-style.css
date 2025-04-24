@@ -1,0 +1,122 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height:118%;
+    width:100%;
+    background-color: rgba(251, 233, 132, 0.737);
+}
+#main{
+    height:10%;
+    width:40%;
+    margin-left: 1%;
+    
+    
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+ 
+}
+
+#top{
+    background-color: rgb(170, 165, 165);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#contact{
+    margin-left: 103%;
+    margin-top: -130%;
+    height:50%;
+    width:90%;
+    border-radius: 0%;
+    border-width: 6px;
+    padding:5%;
+    border: 5px double;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    background-color:rgba(247, 225, 99, 0.737) ;
+    
+     box-shadow: 0px 0px 8px 1px;
+}
+#company{
+    margin-left: 103%;
+    margin-top: 0%;
+    height:48%;
+    width:90%;
+    border-width: 6px;
+    padding:5%;
+    border: 5px double;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    background-color:rgba(247, 225, 99, 0.737) ;
+    box-shadow: 0px 0px 8px 1px;
+}
+/*#company{
+    margin-left: 103%;
+    margin-top: 0%;
+    height:50%;
+    width:90%;
+    border-width: 6px;
+    padding:5%;
+    border: 5px double;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+}*/
+#payment{
+    margin-left: 103%;
+    margin-top: 0%;
+    height:57%;
+    width:90%;
+    border-width: 6px;
+    padding:5%;
+    border: 5px double;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    background-color:rgba(247, 225, 99, 0.737) ;
+    box-shadow: 0px 0px 8px 1px;
+}
+#Sub:hover{
+background-color: blue;
+}
+#gif{
+    margin-left: 196%;
+    margin-top: -130.5%;
+    border: 2px dashed rgb(28, 76, 221);
+    height: 165px;
+    width: 245px;
+    border-radius: 5%;
+    overflow: hidden;
+    box-shadow: 0px 0px 8px 1px;
+   
+}
+#video{
+    
+        margin-left: 195%;
+        margin-top: 5%;
+        border: 2px dashed rgb(28, 7, 218);
+        height: 195px;
+        width: 265px;
+        border-radius: 5%;
+        overflow: hidden;   
+        box-shadow: 0px 0px 8px 1px;
+}
+#channal{
+    height: 10px;
+color: red;
+margin-left: 199%;
+margin-top: 19%;
+}
+#google{
+    height: 10px;
+color: red;
+margin-left: 199%;
+
+}
